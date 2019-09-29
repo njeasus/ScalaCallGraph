@@ -1,0 +1,4 @@
+<plugin>
+    <name>dataflowgraph</name>
+    <classname>dataflow.plugin.DataFlowGraph</classname>
+</plugin>
